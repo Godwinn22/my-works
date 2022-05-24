@@ -4,4 +4,5 @@ Features
 
 - Home
 - About Us
-- Contact Us
+- Education
+- Tourism
